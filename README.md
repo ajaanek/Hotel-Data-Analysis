@@ -1,7 +1,7 @@
 # Hotel-Data-Analysis
 
 ## How to Use This Repository
-- [**Github Pages**]((https://ajaanek.github.io/Hotel-Data-Analysis/)): The complete project - including both the Kaggle Notebook and the interactive Tableau Dashboards, is available in the deployed Github Page
+- [**Github Pages**](https://ajaanek.github.io/Hotel-Data-Analysis/): The complete project - including both the Kaggle Notebook and the interactive Tableau Dashboards, is available in the deployed Github Page
 - [**SQL file**] The SQL file is available in the repository
 
 
